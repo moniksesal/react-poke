@@ -1,0 +1,17 @@
+.formContainer {
+  margin: 20px 0;
+}
+
+.inputField {
+  padding: 8px 12px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  width: 200px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.inputField:focus {
+  border-color: #ffcb05; 
+}
